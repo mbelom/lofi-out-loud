@@ -1,2 +1,2 @@
-# lofi-out-loud
+# SQL Employee Tracker
 SQL Employee Tracker
